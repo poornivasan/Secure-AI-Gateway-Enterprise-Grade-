@@ -1,0 +1,38 @@
+GitHub Actions pipeline:
+Code
+
+↓
+
+Unit Tests
+
+↓
+
+Bandit
+
+↓
+
+Semgrep
+
+↓
+
+Trivy
+
+↓
+
+Docker Build
+
+↓
+
+Container Scan
+
+↓
+
+Push Image
+
+↓
+
+Deploy to Kubernetes
+
+↓
+
+Smoke Test
