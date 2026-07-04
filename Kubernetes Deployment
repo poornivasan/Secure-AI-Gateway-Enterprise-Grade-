@@ -1,0 +1,10 @@
+Deploy:
+
+API Gateway
+FastAPI application
+Redis
+PostgreSQL
+Prometheus
+Grafana
+Ingress
+Horizontal Pod Autoscaler
