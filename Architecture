@@ -1,0 +1,24 @@
+User
+   |
+   v
+NGINX / API Gateway
+   |
+FastAPI (Python)
+   |
+----------------------------
+Authentication (JWT)
+RBAC
+Rate Limiting
+Prompt Validation
+Secret Detection
+PII Detection
+Prompt Injection Detection
+Audit Logging
+Security Dashboard
+----------------------------
+   |
+OpenAI / Local LLM
+   |
+Response Filtering
+   |
+User
